@@ -2,6 +2,8 @@
 
 # Online Shopper's Purchasing Intention Prediction
 
+![Online Shopper's Purchasing Intention Prediction](realistic-empty-supermarket-shopping-cart-isolated-white_53562-6809.webp)
+
 
 
 This repository contains the code for a research project aimed at predicting online shopping sessions that lead to a purchase and identifying the parameters contributing to this action. The project makes use of the Online Shoppers Purchasing Intention dataset from UC Irvine's Machine Learning Repository. The source of this data is from Istanbul, Turkey.
